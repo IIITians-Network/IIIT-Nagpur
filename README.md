@@ -1,1 +1,3 @@
-This is the Page of IIIT NAGPUR
+This is the Official Repo of IIIT NAGPUR. 
+
+Please Don't commit any changes without notifying admin @Raghav Agrawal
